@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76d8cfd6-b36f-42c6-8d72-32d4fcb25a63" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Co5xlXkQBBBDeEKihy9lMFdXWe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/unbek/Desktop/pp_Crosswise_Kern/pp_Crosswise_Kern",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\unbek\Desktop\ppss_29\trunk\pp_Crosswise_Jusup\src\test\SaveFiles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\unbek\Desktop\ppss_29\trunk\pp_Crosswise_Jusup\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.gui.JarMain">
+    <configuration name="gui.JarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.JarMain" />
+      <module name="pp_Crosswise_Jusup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AIPlayerTests.AI_Horizontal_prevent_WinOfSixes_OnlyOneFreeSpace_MOVER" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pp_Crosswise_Jusup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="logic" />
+      <option name="MAIN_CLASS_NAME" value="logic.AIPlayerTests" />
+      <option name="METHOD_NAME" value="AI_Horizontal_prevent_WinOfSixes_OnlyOneFreeSpace_MOVER" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in pp_Crosswise_Jusup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pp_Crosswise_Jusup" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="logic in pp_Crosswise_Jusup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pp_Crosswise_Jusup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="logic" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pp_Crosswise_Jusup-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/pp_Crosswise_Jusup-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.gui.JarMain" />
+        <item itemvalue="JAR Application.pp_Crosswise_Jusup-1.0-SNAPSHOT.jar" />
+        <item itemvalue="JUnit.All in pp_Crosswise_Jusup" />
+        <item itemvalue="JUnit.logic in pp_Crosswise_Jusup" />
+        <item itemvalue="JUnit.AIPlayerTests.AI_Horizontal_prevent_WinOfSixes_OnlyOneFreeSpace_MOVER" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76d8cfd6-b36f-42c6-8d72-32d4fcb25a63" name="Changes" comment="" />
+      <created>1659456346321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659456346321</updated>
+      <workItem from="1659456347499" duration="585000" />
+      <workItem from="1659456946927" duration="1687000" />
+      <workItem from="1659524696609" duration="473000" />
+      <workItem from="1659534860894" duration="8490000" />
+      <workItem from="1659551174216" duration="3265000" />
+      <workItem from="1659609939295" duration="1854000" />
+      <workItem from="1659624079423" duration="593000" />
+      <workItem from="1659629361216" duration="3933000" />
+      <workItem from="1659634299922" duration="916000" />
+      <workItem from="1659694321805" duration="7154000" />
+      <workItem from="1659703065660" duration="490000" />
+      <workItem from="1659703741583" duration="5961000" />
+      <workItem from="1659783672594" duration="13739000" />
+      <workItem from="1659812555541" duration="9859000" />
+      <workItem from="1659824884313" duration="104000" />
+      <workItem from="1659865808209" duration="10218000" />
+      <workItem from="1659876266801" duration="2990000" />
+      <workItem from="1659894483747" duration="594000" />
+      <workItem from="1659900029675" duration="6504000" />
+      <workItem from="1659908595467" duration="1203000" />
+      <workItem from="1659953467099" duration="203000" />
+      <workItem from="1659972081910" duration="1570000" />
+      <workItem from="1659974646944" duration="7034000" />
+      <workItem from="1659982820856" duration="355000" />
+      <workItem from="1659989407360" duration="2052000" />
+      <workItem from="1659992586034" duration="1799000" />
+      <workItem from="1659996578092" duration="787000" />
+      <workItem from="1660074735444" duration="2011000" />
+      <workItem from="1660129583303" duration="14447000" />
+      <workItem from="1660217084548" duration="21744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/logic/AIPlayerTests.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="allGameTiles[0]" />
+        <watch expression="board.getGameTileOccurrencesAtSegment(&#10;                                    isVerticalTeam ? possibleTurn.pos().row() : possibleTurn.pos().column(),&#10;                                    !isVerticalTeam).get(possibleTurn.toPlace())" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pp_Crosswise_Jusup$All_in_pp_Crosswise_Jusup.ic" NAME="All in pp_Crosswise_Jusup Coverage Results" MODIFIED="1659906205141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/pp_Crosswise_Jusup$logic_in_pp_Crosswise_Jusup.ic" NAME="logic in pp_Crosswise_Jusup Coverage Results" MODIFIED="1659906221045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>logic.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/pp_Crosswise_Jusup$GameTest_loadGame_reconstructTileBag_test.ic" NAME="GameTest.loadGame_reconstructTileBag_test Coverage Results" MODIFIED="1659696336295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>logic.*</FILTER>
+    </SUITE>
+  </component>
+</project>

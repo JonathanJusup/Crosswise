@@ -1,0 +1,14 @@
+TileBag | [WC_SWAPONBOARD, T_PENTAGON, T_SUN, T_SQUARE, T_SQUARE, T_PENTAGON, T_SQUARE, T_CROSS, T_STAR, T_PENTAGON, WC_MOVER, T_PENTAGON, T_STAR, T_CROSS, T_SQUARE, T_CROSS, WC_MOVER, WC_MOVER, T_CROSS, T_SQUARE, T_SUN, T_CROSS, WC_SWAPWITHHAND, T_TRIANGLE, T_STAR, T_TRIANGLE, WC_SWAPWITHHAND, T_STAR]
+player0 | PlayerName1 | Human | [4, 3, 6, 3]
+player1 | PlayerName2 | Human | [3, 1, 2, 1]
+player2 | PlayerName3 | Human | [6, 5, 1, 1]
+player3 | PlayerName4 | Human | [1, 4, 6, 2]
+
+Evaluation State: ONGOING_GAME
+Evaluation State: ONGOING_GAME
+dummyPlayer1 | [4] swapped from hand at [1] to (2|1) | new Hand : [0, 2, 0, 0]
+[0 0 0]
+[0 0 4]
+[0 0 0]
+
+Evaluation State: ONGOING_GAME
