@@ -1,9 +1,11 @@
 # README
 Es handelt sich um ein Projekt im Rahmen des  Programmierpraktikums an der Fachhochschule Wedel. Folgendes Projekt ist die Implementierung des Brettspiels "Crosswise" in **Java** mit einer grafischen Oberfläche mit **JavaFX**.
 
-Für weitere Informationen und Implementierungsdetails, siehe **Dokumentation**
+(Für weitere Informationen und Implementierungsdetails, siehe **Dokumentation**)
 
 # Crosswise
+![](./Ressources/Benutzeroberfläche.png)
+
 Crosswise ist ein Brettspiel, welches durch strategischen Platzieren von Spielsteinen auf einem
 Spielbrett gespielt wird. Ziel ist es, durch Kombinationen von Spielsteinen in Zeilen bzw. Spalten die
 meisten Punkte zu erzielen. Dabei müssen die Spieler in alle Richtungen schauen, denn jeder Spielzug
